@@ -207,7 +207,7 @@ p.note { display: none; }
 <a href="20260206_016.JPG" target="_blank"><img src="20260206_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260206_017.JPG" target="_blank"><img src="20260206_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">雑貨屋さんを除くと・・・</span></h2>
+<h2><span class="yellow">雑貨屋さんを覗くと・・・</span></h2>
 <a href="20260206_020.JPG" target="_blank"><img src="20260206_020.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">店番はワンちゃんでした</span></h2>
